@@ -9,7 +9,7 @@ You will need to setup a few things in order to use this:
 1. A telegram account
 2. A telegram bot account
 3. A Geocodio account
-4. Your vehicle nust already be registered with FordPass
+4. Your vehicle must already be registered with FordPass
 
 ## Usage
 
